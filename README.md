@@ -1,2 +1,2 @@
-# IOT-
+# IOT
 Internet Of Everything
