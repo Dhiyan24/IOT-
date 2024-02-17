@@ -1,0 +1,48 @@
+Problem Statement & Challenges :
+
+The problem we aim to address is the lack of an automated system for managing windows in response to rainfall, temperature changes, and optimizing natural lighting in buildings. Currently, occupants manually control windows, resulting in inefficient energy usage and inconvenience.
+
+ The absence of an intelligent system that can autonomously detect rainfall, adjust window positions based on temperature, and follow phototropism hinders the creation of a comfortable and energy-efficient indoor environment.
+
+Our goal is to develop an IoT program that integrates various sensors and actuators to automatically close windows when it rains, adjust window positions to maintain a comfortable indoor temperature, and optimize natural lighting based on the sun's position.
+ 
+By implementing this program, we aim to provide an efficient and sustainable solution that enhances occupant comfort, reduces energy consumption, and promotes a healthier living environment.
+
+Key Challenges:
+	Sensor Integrations: Integrating and calibrating rain sensors, temperature sensors and motorized window control systems to ensure accurate data collection and reliable operation.
+ 
+
+4.	 OBJECTIVE OF THE PROJECT
+
+1.	Automate Window Closure on Rainfall: 
+         
+         To develop a system that can accurately detect rainfall using a rain sensor and send commands to the motorized window control system to close windows when rainfall is detected, preventing water from entering the building.
+
+2.	Optimize Indoor Temperature: 
+           
+         Monitoring the  indoor temperature using temperature sensors and implement algorithms to adjust window positions based on temperature thresholds. Open windows when the temperature is too high to allow for natural ventilation or close windows when the temperature drops to maintain a comfortable indoor environment.
+
+3.	Energy Efficiency:
+           
+            To design the program to prioritize energy efficiency by utilizing natural ventilation and lighting whenever possible, reducing reliance on mechanical systems and minimizing energy consumption.
+
+
+4.	User-Friendly Interface: 
+       
+         Develop a user-friendly interface or mobile application to allow users to monitor and control the window system manually if desired. Provide notifications or alerts to keep users informed about the status of windows and any relevant changes.
+
+5.	Safety and Security: 
+
+         Implement safety features such as manual override options, fail-safe mechanisms, and secure communication protocols to ensure the system can be overridden or deactivated when necessary and protect against unauthorized access.
+
+6.	Scalability and Compatibility: 
+           
+         Design the IoT program to be scalable and compatible with different types of window systems and sensors, allowing for easy integration into existing buildings or future installations.
+          By achieving these objectives, the IoT program will enhance occupant comfort, improve energy efficiency.
+
+
+
+
+
+
+
